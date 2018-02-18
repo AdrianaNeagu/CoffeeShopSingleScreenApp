@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoffeeShop SingleScreenApp</string>
+    <string name="coffeeshop_name">Welcome to Hype Coffee Shop</string>
+    <string name="description">Come and enjoy the city\'s best coffee! Take it to go or just sit back and relax in a wonderful atmosphere surrounded by books and popular magazines.</string>
+    <string name="address">Melbourn street no. 34</string>
+    <string name="time">Monday to Sunday: 08 &#8211; 18</string>
+    <string name="phone">+40 740 548 454</string>
+</resources>
